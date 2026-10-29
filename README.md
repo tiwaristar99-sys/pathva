@@ -1,13 +1,13 @@
 # Pathva
 
-Pathva is an Android app for tracking your daily routes and commutes. It includes offline maps, GPX export, reminders, and a home-screen widget.
+Pathva is a free, ad-supported Android app for tracking daily routes and commutes. It includes offline maps, road-snap tracking, GPX export, reminders, and a home-screen widget.
 
-## Download
+## Download Pathva
 
-Download the latest APK from the [GitHub Releases](https://github.com/tiwaristar99-sys/pathva/releases) page.
+Get the latest APK from the [Pathva v1.2.35 release](https://github.com/tiwaristar99-sys/pathva/releases/tag/v1.2.35). Check the release notes and install only if you're comfortable installing APKs from GitHub.
 
-## Links
+## Find Pathva elsewhere
 
-- Indus Appstore: [Pathva on Indus Appstore](https://www.indusappstore.com/)
-- Blog: https://pathvaapp.blogspot.com
-- Instagram: https://www.instagram.com/pathvaapp/
+- Indus Appstore: [Download Pathva](https://www.indusappstore.com/apps/lifestyle/pathva/com.pathva.dailyline/?page=details&id=com.pathva.dailyline)
+- Blog: [Pathva - Your Daily Line](https://pathvaapp.blogspot.com)
+- Instagram: [@pathvaapp](https://www.instagram.com/pathvaapp/)
